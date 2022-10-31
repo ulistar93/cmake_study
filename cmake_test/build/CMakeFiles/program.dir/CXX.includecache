@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/foo.h
+
+/home/ycm/cmake_test/main.cc
+iostream
+-
+foo.h
+/home/ycm/cmake_test/foo.h
+
