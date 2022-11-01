@@ -67,10 +67,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ycm/cmake_test2
+CMAKE_SOURCE_DIR = /home/ycm/make_test_git/cmake_test2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ycm/cmake_test2/build
+CMAKE_BINARY_DIR = /home/ycm/make_test_git/cmake_test2/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -99,14 +99,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/ycm/cmake_test2/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/ycm/cmake_test2/build/CMakeFiles /home/ycm/cmake_test2/build/lib//CMakeFiles/progress.marks
-	cd /home/ycm/cmake_test2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ycm/cmake_test2/build/CMakeFiles 0
+	cd /home/ycm/make_test_git/cmake_test2/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/ycm/make_test_git/cmake_test2/build/CMakeFiles /home/ycm/make_test_git/cmake_test2/build/lib//CMakeFiles/progress.marks
+	cd /home/ycm/make_test_git/cmake_test2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ycm/make_test_git/cmake_test2/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/ycm/cmake_test2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/clean
+	cd /home/ycm/make_test_git/cmake_test2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/clean
 .PHONY : clean
 
 # The main clean target
@@ -116,22 +116,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/ycm/cmake_test2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
+	cd /home/ycm/make_test_git/cmake_test2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/ycm/cmake_test2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
+	cd /home/ycm/make_test_git/cmake_test2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/ycm/cmake_test2/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/ycm/make_test_git/cmake_test2/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 lib/CMakeFiles/shape.dir/rule:
-	cd /home/ycm/cmake_test2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/CMakeFiles/shape.dir/rule
+	cd /home/ycm/make_test_git/cmake_test2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib/CMakeFiles/shape.dir/rule
 .PHONY : lib/CMakeFiles/shape.dir/rule
 
 # Convenience name for target.
@@ -141,7 +141,7 @@ shape: lib/CMakeFiles/shape.dir/rule
 
 # fast build rule for target.
 shape/fast:
-	cd /home/ycm/cmake_test2/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/shape.dir/build.make lib/CMakeFiles/shape.dir/build
+	cd /home/ycm/make_test_git/cmake_test2/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/shape.dir/build.make lib/CMakeFiles/shape.dir/build
 .PHONY : shape/fast
 
 shape.o: shape.cc.o
@@ -150,7 +150,7 @@ shape.o: shape.cc.o
 
 # target to build an object file
 shape.cc.o:
-	cd /home/ycm/cmake_test2/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/shape.dir/build.make lib/CMakeFiles/shape.dir/shape.cc.o
+	cd /home/ycm/make_test_git/cmake_test2/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/shape.dir/build.make lib/CMakeFiles/shape.dir/shape.cc.o
 .PHONY : shape.cc.o
 
 shape.i: shape.cc.i
@@ -159,7 +159,7 @@ shape.i: shape.cc.i
 
 # target to preprocess a source file
 shape.cc.i:
-	cd /home/ycm/cmake_test2/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/shape.dir/build.make lib/CMakeFiles/shape.dir/shape.cc.i
+	cd /home/ycm/make_test_git/cmake_test2/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/shape.dir/build.make lib/CMakeFiles/shape.dir/shape.cc.i
 .PHONY : shape.cc.i
 
 shape.s: shape.cc.s
@@ -168,7 +168,7 @@ shape.s: shape.cc.s
 
 # target to generate assembly for a file
 shape.cc.s:
-	cd /home/ycm/cmake_test2/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/shape.dir/build.make lib/CMakeFiles/shape.dir/shape.cc.s
+	cd /home/ycm/make_test_git/cmake_test2/build && $(MAKE) $(MAKESILENT) -f lib/CMakeFiles/shape.dir/build.make lib/CMakeFiles/shape.dir/shape.cc.s
 .PHONY : shape.cc.s
 
 # Help Target
@@ -194,6 +194,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/ycm/cmake_test2/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/ycm/make_test_git/cmake_test2/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

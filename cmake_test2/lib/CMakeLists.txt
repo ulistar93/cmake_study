@@ -1,13 +1,13 @@
 # /lib/CMakeLists.txt
 
 # 정적 라이브러리 shape 를 만든다.
-#add_library(shape STATIC shape.cc)
+add_library(shape STATIC shape.cc)
 
 # .cc가 여럿일때 재귀적 탐색 & 추가
-file(GLOB_RECURSE SRC_FILES CONFIGURE_DEPENDS
-  ${CMAKE_CURRENT_SOURCE_DIR}/*.cc
-)
-add_library(shape STATIC ${SRC_FILES})
+#file(GLOB_RECURSE SRC_FILES CONFIGURE_DEPENDS
+#  ${CMAKE_CURRENT_SOURCE_DIR}/*.cc
+#)
+#add_library(shape STATIC ${SRC_FILES})
 # 재귀가 싫으면 GLOB_RECURSE -> GLOB
 # CONFIGURE_DEPENDS = GLOB 으로 불러오는 파일 목록이 이전과 다를 경우, CMake 를 다시 실행해서 빌드 파일을 재생성
 

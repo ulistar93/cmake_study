@@ -1,4 +1,4 @@
-# Install script for directory: /home/ycm/cmake_test2/lib
+# Install script for directory: /home/ycm/make_test_git/cmake_test2/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

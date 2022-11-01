@@ -3,7 +3,7 @@
 
 CMakeFiles/program.dir/foo.cc.o
  ../includes/foo.h
- /home/ycm/cmake_test/foo.cc
+ /home/ycm/make_test_git/cmake_test/foo.cc
 CMakeFiles/program.dir/main.cc.o
  ../includes/foo.h
- /home/ycm/cmake_test/main.cc
+ /home/ycm/make_test_git/cmake_test/main.cc

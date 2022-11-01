@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ycm/cmake_test/foo.cc" "/home/ycm/cmake_test/build/CMakeFiles/program.dir/foo.cc.o"
-  "/home/ycm/cmake_test/main.cc" "/home/ycm/cmake_test/build/CMakeFiles/program.dir/main.cc.o"
+  "/home/ycm/make_test_git/cmake_test/foo.cc" "/home/ycm/make_test_git/cmake_test/build/CMakeFiles/program.dir/foo.cc.o"
+  "/home/ycm/make_test_git/cmake_test/main.cc" "/home/ycm/make_test_git/cmake_test/build/CMakeFiles/program.dir/main.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

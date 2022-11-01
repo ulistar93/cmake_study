@@ -1,4 +1,4 @@
-# Install script for directory: /home/ycm/cmake_test2
+# Install script for directory: /home/ycm/make_test_git/cmake_test2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/ycm/cmake_test2/build/lib/cmake_install.cmake")
+  include("/home/ycm/make_test_git/cmake_test2/build/lib/cmake_install.cmake")
 
 endif()
 
@@ -56,5 +56,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ycm/cmake_test2/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ycm/make_test_git/cmake_test2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

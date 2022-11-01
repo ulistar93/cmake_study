@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/ycm/cmake_test2/includes
+CXX_INCLUDES = -I/home/ycm/make_test_git/cmake_test2/includes
 
-CXX_FLAGS = -Wall -Werror
+CXX_FLAGS = -std=c++0x -Wall -Werror
 

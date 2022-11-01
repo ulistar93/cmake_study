@@ -1,4 +1,4 @@
-# Install script for directory: /home/ycm/cmake_test
+# Install script for directory: /home/ycm/make_test_git/cmake_test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ycm/cmake_test/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ycm/make_test_git/cmake_test/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

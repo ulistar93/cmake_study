@@ -1,0 +1,9 @@
+/home/ycm/make_test_git/cmake_test3/build/CMakeFiles/rebuild_cache.dir
+/home/ycm/make_test_git/cmake_test3/build/CMakeFiles/edit_cache.dir
+/home/ycm/make_test_git/cmake_test3/build/CMakeFiles/program.dir
+/home/ycm/make_test_git/cmake_test3/build/lib/CMakeFiles/rebuild_cache.dir
+/home/ycm/make_test_git/cmake_test3/build/lib/CMakeFiles/edit_cache.dir
+/home/ycm/make_test_git/cmake_test3/build/lib/CMakeFiles/shape.dir
+/home/ycm/make_test_git/cmake_test3/build/_deps/fmt-build/CMakeFiles/edit_cache.dir
+/home/ycm/make_test_git/cmake_test3/build/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
+/home/ycm/make_test_git/cmake_test3/build/_deps/fmt-build/CMakeFiles/fmt.dir

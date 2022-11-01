@@ -8,9 +8,13 @@
 
 ../includes/foo.h
 
-/home/ycm/cmake_test/main.cc
+/home/ycm/make_test_git/cmake_test/foo.cc
+foo.h
+/home/ycm/make_test_git/cmake_test/foo.h
+
+/home/ycm/make_test_git/cmake_test/main.cc
 iostream
 -
 foo.h
-/home/ycm/cmake_test/foo.h
+/home/ycm/make_test_git/cmake_test/foo.h
 

@@ -1,6 +1,6 @@
-/home/ycm/cmake_test2/build/CMakeFiles/rebuild_cache.dir
-/home/ycm/cmake_test2/build/CMakeFiles/edit_cache.dir
-/home/ycm/cmake_test2/build/CMakeFiles/program.dir
-/home/ycm/cmake_test2/build/lib/CMakeFiles/rebuild_cache.dir
-/home/ycm/cmake_test2/build/lib/CMakeFiles/edit_cache.dir
-/home/ycm/cmake_test2/build/lib/CMakeFiles/shape.dir
+/home/ycm/make_test_git/cmake_test2/build/CMakeFiles/rebuild_cache.dir
+/home/ycm/make_test_git/cmake_test2/build/CMakeFiles/edit_cache.dir
+/home/ycm/make_test_git/cmake_test2/build/CMakeFiles/program.dir
+/home/ycm/make_test_git/cmake_test2/build/lib/CMakeFiles/rebuild_cache.dir
+/home/ycm/make_test_git/cmake_test2/build/lib/CMakeFiles/edit_cache.dir
+/home/ycm/make_test_git/cmake_test2/build/lib/CMakeFiles/shape.dir
