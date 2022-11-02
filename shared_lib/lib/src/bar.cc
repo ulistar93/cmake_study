@@ -1,0 +1,2 @@
+// bar.cc
+void bar() {}

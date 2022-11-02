@@ -1,0 +1,2 @@
+// bar.h
+void bar();
