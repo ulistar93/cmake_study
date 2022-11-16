@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/shape.h
+
+/home/ycm/make_test_git/cmake_test4/lib/shape.cc
+iostream
+-
+thread
+-
+shape.h
+/home/ycm/make_test_git/cmake_test4/lib/shape.h
+

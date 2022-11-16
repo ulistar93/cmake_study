@@ -1,5 +1,6 @@
 CC = g++
-CXXFLAGS = -fPIC -Wall -O2
+#CXXFLAGS = -fPIC -Wall -O2
+CXXFLAGS = -Wall -O2
 
 INCLUDE = -I./include
 SRC_DIR = ./src

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++0x -Wl,-rpath,/home/ycm/linaro/gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/lib -L/home/ycm/linaro/gcc-linaro-7.5.0-2019.12-x86_64_arm-linux-gnueabi/arm-linux-gnueabi/libc/lib -shared -Wl,-soname,libshape.so -o libshape.so CMakeFiles/shape.dir/shape.cc.o  -lpthread 

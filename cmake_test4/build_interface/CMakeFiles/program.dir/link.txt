@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++0x -rdynamic CMakeFiles/program.dir/main.cc.o -o program  -Wl,-rpath,/home/ycm/make_test_git/cmake_test4/build/lib lib/libshape.so -lpthread 
