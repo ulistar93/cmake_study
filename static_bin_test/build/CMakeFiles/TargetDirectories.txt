@@ -1,0 +1,6 @@
+/home/ycm/make_test_git/static_bin_test/build/CMakeFiles/rebuild_cache.dir
+/home/ycm/make_test_git/static_bin_test/build/CMakeFiles/edit_cache.dir
+/home/ycm/make_test_git/static_bin_test/build/CMakeFiles/program.dir
+/home/ycm/make_test_git/static_bin_test/build/lib/CMakeFiles/rebuild_cache.dir
+/home/ycm/make_test_git/static_bin_test/build/lib/CMakeFiles/edit_cache.dir
+/home/ycm/make_test_git/static_bin_test/build/lib/CMakeFiles/shape.dir

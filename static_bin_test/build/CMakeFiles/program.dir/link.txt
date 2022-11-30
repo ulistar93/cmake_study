@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++0x -rdynamic -static-libgcc -Wl,--verbose -Wl,-Bstatic -Wl,--whole-archive -lpthread -Wl,--no-whole-archive CMakeFiles/program.dir/main.cc.o -o program  lib/libshape.a -lpthread 

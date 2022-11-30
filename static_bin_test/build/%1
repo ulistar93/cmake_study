@@ -1,0 +1,64 @@
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/acpid/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/acpid/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/allowlist/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/allowlist/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/binfmt/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/binfmt/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/devenv-service/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/devenv-service/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/diagnose/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/diagnose/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/dns-forwarder/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/dns-forwarder/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/docker/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/docker/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/http-proxy/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/http-proxy/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/kmsg/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/kmsg/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/rngd/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/rngd/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/sntpc/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/sntpc/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/socks/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/socks/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/trim-after-delete/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/trim-after-delete/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/volume-contents/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/volume-contents/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/vpnkit-forwarder/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/vpnkit-forwarder/rootfs
+      Output information may be incomplete.
+lsof: WARNING: can't stat() tmpfs file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/vpnkit-tap-vsockd/tmp
+      Output information may be incomplete.
+lsof: WARNING: can't stat() overlay file system /mnt/wsl/docker-desktop-data/version-pack-data/community/mount-services-cache/entries/services.tar/db9dab7a7f8f5138c713df12f57b6aebf6e493909f51d70d041c5b74bebf5a21/containers/services/vpnkit-tap-vsockd/rootfs
+      Output information may be incomplete.
